@@ -92,3 +92,10 @@ h2 {
   display: table;
   clear: both;
 }
+
+.videos {
+  display: flex;
+  flex-direction: row;
+  flex: wrap;
+  width: 100%;
+}
